@@ -23,5 +23,5 @@
     Depth: 0“  
   .............
   
-  输出所有多边形的相关数据  
+  输出所有多边形的相关数据（Perimeter周长，Area面积，Convex凹凸性，Nb of invariant rotations旋转不变性，Depth深度）  
   生成LaTex文件，可视化多边形  
