@@ -10,12 +10,17 @@
 ### 测试项目指令：
 1.运行测试指令  
 
-`python knights_and_knaves.py`  
+`python test_polygons.py input_file`  
 
-- 提示 Which text file do you want to use for the puzzle?  
-- 输入  
-  test_1.txt  
-  回车
+参数：  
+- input_file 输入文本（全部由0和1组成）
 - 输出
-  “The Sirs are: Eleonore Sanjay"  展示成员  
-  "There is no solution”  展示答案数量  
+  “Polygon 1:
+    Perimeter: 78.4
+    Area: 384.16
+    Convex: yes
+    Nb of invariant rotations: 4
+    Depth: 0“
+  .............  
+  输出所有多边形的相关数据  
+  生成LaTex文件，可视化多边形  
