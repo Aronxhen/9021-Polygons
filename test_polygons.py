@@ -1,8 +1,12 @@
 from polygons import Polygons
+import sys
 
 def main():
     # 输入文件名
-    input_file = "polys_1.txt"  # 确保文件路径正确
+    if sys.argv[1]:
+        input_file = sys.argv[0]  # 确保文件路径正确
+    else:
+        exit(1)
 
     try:
         # 创建 Polygons 对象
