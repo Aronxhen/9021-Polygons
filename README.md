@@ -21,6 +21,7 @@
     Convex: yes  
     Nb of invariant rotations: 4  
     Depth: 0“  
-  .............  
+  .............
+  
   输出所有多边形的相关数据  
   生成LaTex文件，可视化多边形  
