@@ -14,7 +14,7 @@
 
 参数：  
 - input_file 输入文本（全部由0和1组成）
-- 输出
+- 输出  
   “Polygon 1:  
     Perimeter: 78.4  
     Area: 384.16  
