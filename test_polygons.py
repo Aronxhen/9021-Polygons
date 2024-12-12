@@ -4,7 +4,7 @@ import sys
 def main():
     # 输入文件名
     if sys.argv[1]:
-        input_file = sys.argv[0]  # 确保文件路径正确
+        input_file = sys.argv[1]  # 确保文件路径正确
     else:
         exit(1)
 
