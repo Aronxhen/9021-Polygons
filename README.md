@@ -15,12 +15,12 @@
 参数：  
 - input_file 输入文本（全部由0和1组成）
 - 输出
-  “Polygon 1:
-    Perimeter: 78.4
-    Area: 384.16
-    Convex: yes
-    Nb of invariant rotations: 4
-    Depth: 0“
+  “Polygon 1:  
+    Perimeter: 78.4  
+    Area: 384.16  
+    Convex: yes  
+    Nb of invariant rotations: 4  
+    Depth: 0“  
   .............  
   输出所有多边形的相关数据  
   生成LaTex文件，可视化多边形  
